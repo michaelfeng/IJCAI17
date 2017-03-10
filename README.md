@@ -21,3 +21,7 @@ IJCAI17 Customer Flow Forecasts on Koubei.com
 3) python process_result.py
 
 4) predict.csv is the final result
+
+# Dataset
+
+[Official Dataset](https://tianchi.shuju.aliyun.com/competition/information.htm?spm=5176.100067.5678.2.YALIeW&raceId=231591)
