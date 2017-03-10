@@ -14,6 +14,8 @@ with open(fname) as f:
         shop_id = data[1]
         # pay_count
         pay_count = round(float(data[0]))
+        if pay_count < 0:
+            pay_count = -1 * pay_count
         pay_array.append(int(pay_count))
         if int(idx) == 14:
             dict[int(shop_id)] = pay_array
