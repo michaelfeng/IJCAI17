@@ -14,7 +14,7 @@ IJCAI17 Customer Flow Forecasts on Koubei.com
 - Change Sklearn implementation to TensorFlow version(sklearn's a little slow within more data and estimator), deffer
 
 # Main program
-jupyter notebook run.ipython
+jupyter notebook run.ipynb
 
 or
 
